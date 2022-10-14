@@ -1,0 +1,22 @@
+.bannerSection {
+    background: url(../../../../Media/Images/Banner.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bannerText {
+    width: 800px;
+    padding: 150px;
+}
+
+.bannerText h1 {
+    font-size: 68px;
+    line-height: 66px;
+    background-image: linear-gradient(71.18deg, rgb(0, 34, 255) -27.32%, rgb(0, 34, 255) -16.39%, rgb(81, 121, 254) -7.38%, rgb(165, 237, 182) 30.59%, rgb(250, 232, 90) 46.06%, rgb(253, 172, 62) 62.61%, rgb(255, 92, 0) 75.82%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.bannerText p {
+    line-height: 30px;
+}
